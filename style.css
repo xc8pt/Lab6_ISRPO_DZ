@@ -1,0 +1,14 @@
+form {
+    max-width: 400px;
+}
+h2 {
+    color: greenyellow
+}
+p {
+    background: #2a6df4;
+    color: white;
+    border: none;
+    padding: 8px 14px;
+    cursor: pointer;
+    border-radius: 4px;
+}
